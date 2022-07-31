@@ -1,0 +1,29 @@
+html {
+  background-color: gray;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: chocolate;
+}
+.container {
+  border: 1px solid darkslategray;
+  background-color: dimgrey;
+  width: 90%;
+  height: 200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.door {
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 10px;
+  width: 150px;
+  height: 150px;
+  font-size: 3rem;
+}
